@@ -10,3 +10,4 @@ If you are looking for a fast, accurate Python solution to monitor Bitcoin price
 6. install python-telegram-bot library with ```pip install python-telegram-bot``` command
 7. open telg_bot.py and write your bot token on line 37th.
 8. run telg_bot in cmd with ```python telg_bot.py ``` command
+9. after start the [bot](https://t.me/hossein_test1001_bot) you need to enter `/price_btc` command if you need to know the bitcoin price
